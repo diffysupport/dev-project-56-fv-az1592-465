@@ -1,7 +1,7 @@
 basic:
-    name: 'Gorczany, Kunde and Douglas'
+    name: 'Jaskolski, Hirthe and Krajcik'
     environments:
-        production: 'https://www.schamberger.com/'
+        production: 'https://kessler.com/possimus-assumenda-dolore-repellat-numquam-nesciunt'
         staging: ''
         development: ''
     breakpoints:
